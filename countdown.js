@@ -44,5 +44,5 @@ function countdown(endDate) {
 }
 
 (function () { 
-  countdown('04/01/2333 05:00:00 PM'); 
+  countdown('16/03/2022 05:00:00 PM'); 
 }());
